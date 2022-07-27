@@ -12,7 +12,7 @@ const chino = {
   pronouns: "he" | "him",
   codeLearning: [Javascript, HTML, CSS],
   toolsLearning: [Node],
-}
+};
 ```
 
 <img align='left' src="https://media3.giphy.com/media/er19eYafoFxrq/giphy.gif" width="160"> 
