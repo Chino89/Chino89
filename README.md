@@ -5,18 +5,20 @@
 <p>Tengo 33 años, actualmente vivo en Córdoba, Argentina, con mi novio y nuestros dos gatos, Zafir y Moto, que siempre están con nosotros</p> 
 Dentro de mis pasatiempos, me gusta mucho jugar, soy *Nintendo Fanboy* ❤. También me gusta cocinar, sobre todo cosas dulces 🍰.
 <img align='right' src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150">
-<p>Estudie Frances en la facultad de Lenguas, Gastronomía y Pastelería Actualmente estoy haciendo un curso de programación Fullstack en <b>Digital House</b>. Me gusta aprender cosas nuevas y estoy siempre abierto a sugerencias y consejos!<br> Si crees que en algo nos podemos ayudar, no dudes en darme follow. ☺</p><br><br>
+<p>Estudie Francés en la facultad de Lenguas, Gastronomía y Pastelería. Actualmente estoy haciendo un curso de programación Fullstack en <b>Digital House</b>. Me gusta aprender cosas nuevas y estoy siempre abierto a sugerencias y consejos!<br> Si crees que en algo nos podemos ayudar, no dudes en darme follow. ☺</p><br><br>
 
 ```javascript
 const chino = {
   pronouns: "he" | "him",
-  codeLearning: [Javascript, HTML, CSS],
+  languages: ['Es', 'Fr', 'En'],
+  enBeta: 'siempre',
+  codeLearning: ['Javascript', 'HTML', 'CSS'],
   toolsLearning: [Node],
 };
 ```
 
 <img align='left' src="https://media3.giphy.com/media/er19eYafoFxrq/giphy.gif" width="160"> 
-<p>Gracias por Leerme!<br>
+<p>Gracias por leerme!<br>
 <br>
 <b>🙋🏻‍♂️Chino⛩️</b></p> 
 
