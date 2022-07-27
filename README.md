@@ -1,16 +1,22 @@
-### Hi there 👋
+## **Hola a todos! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">**
 
-<!--
-**Chino89/Chino89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Mi nombre es Emmanuel, pero me dicen <b>Chino</b> o <b>Emma</b>...</p>
+<img align='right' src="https://media2.giphy.com/media/ZCes4khR2025X0rOLY/giphy.gif" width="80"><img align='right' src="https://media4.giphy.com/media/cmCEsJZHYBPels360q/200w.gif" width="70">
+<p>Tengo 33 años, actualmente vivo en Córdoba, Argentina, con mi novio y nuestros dos gatos, Zafir y Moto, que siempre están con nosotros</p> 
+Dentro de mis pasatiempos, me gusta mucho jugar, soy *Nintendo Fanboy* ❤. También me gusta cocinar, sobre todo cosas dulces 🍰.
+<img align='right' src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150">
+<p>Estudie Frances en la facultad de Lenguas, Gastronomía y Pastelería Actualmente estoy haciendo un curso de programación Fullstack en <b>Digital House</b>. Me gusta aprender cosas nuevas y estoy siempre abierto a sugerencias </p>
 
-Here are some ideas to get you started:
+```javascript
+const chino = {
+  pronouns: "he" | "him",
+  codeLearning: [Javascript, HTML, CSS],
+  toolsLearning: [Node],
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='left' src="https://media3.giphy.com/media/er19eYafoFxrq/giphy.gif" width="160"> 
+<p>Gracias por Leerme!<br>
+<br>
+<b>🙋🏻‍♂️Chino⛩️</b></p> 
+
