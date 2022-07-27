@@ -6,7 +6,9 @@
 Dentro de mis pasatiempos, me gusta mucho jugar, soy *Nintendo Fanboy* ❤. También me gusta cocinar, sobre todo cosas dulces 🍰.
 <img align='right' src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150">
 <p>Estudie Frances en la facultad de Lenguas, Gastronomía y Pastelería Actualmente estoy haciendo un curso de programación Fullstack en <b>Digital House</b>. Me gusta aprender cosas nuevas y estoy siempre abierto a sugerencias </p>
-
+<br>
+<br>
+<br>
 ```javascript
 const chino = {
   pronouns: "he" | "him",
